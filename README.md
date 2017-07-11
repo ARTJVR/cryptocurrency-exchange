@@ -1,6 +1,6 @@
 # Cryptocurrency Exchange App
 
-LIVE DEMO: www.ppasciak.github.io/cryptocurrency-exchange/index.html
+LIVE DEMO: https://ppasciak.github.io/cryptocurrency-exchange/index.html
 
 In project were used:
 - HTML5
